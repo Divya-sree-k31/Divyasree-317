@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🧠 Passionate about: Data Science, AI, and Machine Learning.<br>🎓 Education: Bachelor of Technology in Computer Science and Engineering.<br>📜 Published Research Paper:<br>-> HealthMentor: A Health Monitoring Mobile App Using Advanced Machine Learning Algorithm (Published in IEEE Xplore).<br>-> National Conference in ** Heart Diseases Prediction System Using Machine Learning** (Presented at RTACT 23).<br>-> Internation Conference in ** Health Mentor App Using Machine Learning ** (Presented at IC-SGMat ).<br>-> Internation Conference in ** A HealthMemtor: A Health Monitoring Mobbile App Using Advanced Machine Learning Algorithm ** (Presented at ICCDS-2024)</p>
+<p align="left">🧠 Passionate about :  Data Science, AI, and Machine Learning.<br>🎓 Education : Bachelor of Technology in Computer Science and Engineering.<br>📜 Published Research Paper:<br>-> HealthMentor: A Health Monitoring Mobile App Using Advanced Machine Learning Algorithm (Published in IEEE Xplore).<br>-> National Conference in ** Heart Diseases Prediction System Using Machine Learning** (Presented at RTACT 23).<br>-> Internation Conference in ** Health Mentor App Using Machine Learning ** (Presented at IC-SGMat ).<br>-> Internation Conference in ** A HealthMemtor: A Health Monitoring Mobbile App Using Advanced Machine Learning Algorithm ** (Presented at ICCDS-2024)</p>
 
 ###
 
